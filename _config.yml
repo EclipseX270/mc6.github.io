@@ -14,9 +14,9 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EclipseX blog # the main title
+title: "EclipseX blog" # the main title
 
-tagline: Red Teaming, Windows Exploitation, Training & Labs # it will display as the subtitle
+tagline: "Red Teaming, Windows Exploitation, Training & Labs" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Red Teaming, Windows Exploitation, Training & Labs.
@@ -29,18 +29,18 @@ github:
   username: EclipseX270 # change to your GitHub username
 
 twitter:
-  username: @x474900 # change to your Twitter username
+  username: "@x474900" # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: EclipseX
+  name: "EclipseX"
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/@x474900 # change to your Twitter homepage
+    - https://x.com/x474900 # change to your Twitter homepage
     - https://github.com/EclipseX270 # change to your GitHub homepage
-    - https://www.linkedin.com/in/mishabimadeddine/ # change to your GitHub homepage 
+    - https://www.linkedin.com/in/mishabimadeddine/ # change to your LinkedIn profile
 
 # Site Verification Settings
 webmaster_verifications:
